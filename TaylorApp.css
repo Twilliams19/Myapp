@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrN_VkwZfMr1Q69OoYHEZ7UiG3Tl-upfZ0HHVY1lWgoEuva0Gk);
+    color: rgb(145, 49, 49);
+}
+
+#mylist{
+    font-family:'Cousine', monospace;
+    color:  rgb(202, 135, 47); 
+    font-size: 50px
+}
+
+.webpage{
+float: left; 
+width: 20%;
+background-color: rgb(160, 149, 64);
+border: solid black;
+padding: 40px; 
+margin-bottom: 80px;
+}
+
+.amazon{
+float: right;
+width: 20%;
+background-color: rgb(228, 219, 219); 
+border: solid black;
+padding: 40px;
+margin-bottom: 80px;
+}
+
+.notfound{
+    color: rgb(62, 48, 87);
+    font-size: 100px;
+    
+}
+
+img{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
