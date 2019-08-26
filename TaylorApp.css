@@ -13,16 +13,17 @@ body{
 float: left; 
 width: 20%;
 background-color: rgb(160, 149, 64);
-border: solid black;
+border: 5px solid black;
 padding: 40px; 
 margin-bottom: 80px;
+
 }
 
 .amazon{
 float: right;
 width: 20%;
 background-color: rgb(228, 219, 219); 
-border: solid black;
+border: 5px solid black;
 padding: 40px;
 margin-bottom: 80px;
 
@@ -40,4 +41,6 @@ img{
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+  margin-bottom:100px;
+  
 }
