@@ -17,6 +17,13 @@ border: 5px solid black;
 padding: 40px; 
 margin-bottom: 80px;
 
+font-family:'Times New Roman', Times, serif
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 44px;
+
+color: #000000;
 }
 
 .amazon{
@@ -27,7 +34,15 @@ border: 5px solid black;
 padding: 40px;
 margin-bottom: 80px;
 
-margin-right: 200px; 
+margin-right: 200px;
+
+font-family: Siemreap;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 44px;
+
+color: #000000;
 }
 
 .notfound{
