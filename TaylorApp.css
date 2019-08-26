@@ -1,6 +1,7 @@
 body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrN_VkwZfMr1Q69OoYHEZ7UiG3Tl-upfZ0HHVY1lWgoEuva0Gk);
     color: rgb(145, 49, 49);
+    font-size: 40px;
 }
 
 #mylist{
@@ -17,7 +18,7 @@ border: 5px solid black;
 padding: 40px; 
 margin-bottom: 80px;
 
-font-family:'Times New Roman', Times, serif;
+font-family:'Roboto Condensed', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
@@ -36,7 +37,7 @@ margin-bottom: 80px;
 
 margin-right: 200px;
 
-font-family: Siemreap;
+font-family: 'Roboto Condensed', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
@@ -46,8 +47,9 @@ color: #000000;
 }
 
 .notfound{
+    font-family: 'Hepta Slab', serif;
     color: rgb(62, 48, 87);
-    font-size: 100px;
+    
     
 }
 
